@@ -1,0 +1,743 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin//Users/mcachran/Sites/VVV/www/es/"
+"htdocs/wp-content/plugins/maintainn-dashboard-widget/maintainn-tools\n"
+"POT-Creation-Date: 2017-04-10 14:31:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: includes/dashboard.php:53
+msgid "Maintainn"
+msgstr ""
+
+#: includes/dashboard.php:68
+msgid "About"
+msgstr ""
+
+#: includes/dashboard.php:69 includes/helpers.php:24
+msgid "Site Info"
+msgstr ""
+
+#: includes/dashboard.php:70 includes/helpers.php:28
+msgid "Site Scanner"
+msgstr ""
+
+#: includes/dashboard.php:71 includes/helpers.php:32
+msgid "Tools"
+msgstr ""
+
+#: includes/dashboard.php:72
+msgid "Support"
+msgstr ""
+
+#: includes/dashboard.php:133
+msgid ""
+"Ensure your site is happy, healthy and up to date. The Maintainn Dashboard "
+"widget is your quick launch pad to the info you need to do just that. Use "
+"the buttons below to view your site information, scan your site, check out "
+"the tools, or get support."
+msgstr ""
+
+#: includes/dashboard.php:345
+msgid ""
+"The \"Site Scanner\" tool compares the WordPress Core files on your website "
+"to the original files on wordpress.org and ensures that they have not been "
+"altered in any way."
+msgstr ""
+
+#: includes/dashboard.php:346
+msgid "Check Core Files"
+msgstr ""
+
+#: includes/dashboard.php:362
+msgid "There was an error running checksums test."
+msgstr ""
+
+#: includes/dashboard.php:363
+msgid "Verifying"
+msgstr ""
+
+#: includes/emailing.php:21
+msgid "Successfully submitted"
+msgstr ""
+
+#: includes/emailing.php:25
+msgid "Email to send to: "
+msgstr ""
+
+#: includes/emailing.php:27
+msgid "Send"
+msgstr ""
+
+#: includes/emailing.php:55
+msgid "Debug information for %s"
+msgstr ""
+
+#: includes/extensions.php:51
+msgid "Active"
+msgstr ""
+
+#: includes/extensions.php:52
+msgid "Name"
+msgstr ""
+
+#: includes/extensions.php:53
+msgid "Description"
+msgstr ""
+
+#: includes/extensions.php:58 vendor/tools-view.php:64
+msgid "Notes"
+msgstr ""
+
+#: includes/extensions.php:59
+msgid "Adds an extra column to the plugins so you can add notes"
+msgstr ""
+
+#: includes/helpers.php:25
+msgid ""
+"A top level view of your entire WordPress install. View registered post "
+"types &amp; post statuses, permalink structure, multisite network actived "
+"plugins, active &amp; inactive plugins, must-use plugins (MU), site &amp; "
+"server details, browser details, session details, and email yourself a copy."
+msgstr ""
+
+#: includes/helpers.php:29
+msgid ""
+"Compare the WordPress Core files on your website hosting server to the "
+"current WordPress files available from the WordPress.org repository, to "
+"ensure they have not been altered in any way."
+msgstr ""
+
+#: includes/helpers.php:33
+msgid "This feature has three main functions."
+msgstr ""
+
+#: includes/helpers.php:35
+msgid "Turn on/off automatic updates for specific plugins."
+msgstr ""
+
+#: includes/helpers.php:36
+msgid "Lock a specific plugin."
+msgstr ""
+
+#: includes/helpers.php:37
+msgid "Plugin admin notes."
+msgstr ""
+
+#: includes/helpers.php:41 views/support-info.php:60
+msgid "Maintainn Support"
+msgstr ""
+
+#: includes/helpers.php:42 views/about-page.php:18
+msgid ""
+"Use this simple set of tools to scan your WordPress website. Check for "
+"updates, active and inactive plugins, site and server details, and much "
+"more."
+msgstr ""
+
+#: includes/scanner.php:70
+msgid "Maintainn Scanner"
+msgstr ""
+
+#: includes/system-info.php:110 includes/system-info.php:136
+#: includes/system-info.php:145
+msgid "Yes"
+msgstr ""
+
+#: includes/system-info.php:110 includes/system-info.php:136
+#: includes/system-info.php:145
+msgid "No"
+msgstr ""
+
+#: includes/system-info.php:120
+msgid "Enabled"
+msgstr ""
+
+#: includes/system-info.php:120
+msgid "Disabled"
+msgstr ""
+
+#: includes/system-info.php:130
+msgid "ERROR: Too Long"
+msgstr ""
+
+#: includes/system-info.php:130
+msgid "Acceptable"
+msgstr ""
+
+#: includes/system-info.php:149 includes/system-info.php:150
+#: includes/system-info.php:152 includes/system-info.php:153
+#: includes/system-info.php:154 includes/system-info.php:155
+msgid "On"
+msgstr ""
+
+#: includes/system-info.php:149 includes/system-info.php:150
+#: includes/system-info.php:152 includes/system-info.php:153
+#: includes/system-info.php:154 includes/system-info.php:155
+msgid "Off"
+msgstr ""
+
+#: includes/system-info.php:151
+msgid "On (%s)"
+msgstr ""
+
+#: includes/system-info.php:151
+msgid "N/A"
+msgstr ""
+
+#: maintainn-tools.php:302
+msgid ""
+"Maintainn Scanner is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#: maintainn-tools.php:462
+msgid "Settings"
+msgstr ""
+
+#: vendor/class-tools-form.php:67
+msgid "Unlock the %s plugin"
+msgstr ""
+
+#: vendor/class-tools-form.php:67
+msgid "Lock the %s plugin"
+msgstr ""
+
+#: vendor/class-tools-form.php:131
+msgid "Turn off auto updates for the %s plugin"
+msgstr ""
+
+#: vendor/class-tools-form.php:131
+msgid "Turn on auto updates for the %s plugin"
+msgstr ""
+
+#: vendor/class-tools-form.php:169 vendor/class-tools-form.php:174
+msgid "Add a Note"
+msgstr ""
+
+#: vendor/class-tools-form.php:203
+msgid "&#8226; %s by <strong>%s</strong> on %s"
+msgstr ""
+
+#: vendor/cpt-core.php:77 vendor/cpt-core.php:81 vendor/cpt-core.php:85
+msgid "It is required to pass a single, plural and slug string to CPT_Core"
+msgstr ""
+
+#: vendor/cpt-core.php:135 vendor/cpt-core.php:136
+msgid "Add New %s"
+msgstr ""
+
+#: vendor/cpt-core.php:137
+msgid "Edit %s"
+msgstr ""
+
+#: vendor/cpt-core.php:138
+msgid "New %s"
+msgstr ""
+
+#: vendor/cpt-core.php:139
+msgid "All %s"
+msgstr ""
+
+#: vendor/cpt-core.php:140
+msgid "View %s"
+msgstr ""
+
+#: vendor/cpt-core.php:141
+msgid "Search %s"
+msgstr ""
+
+#: vendor/cpt-core.php:142
+msgid "No %s"
+msgstr ""
+
+#: vendor/cpt-core.php:143
+msgid "No %s found in Trash"
+msgstr ""
+
+#: vendor/cpt-core.php:144
+msgid "Parent %s:"
+msgstr ""
+
+#: vendor/cpt-core.php:146
+msgid "Insert into %s"
+msgstr ""
+
+#: vendor/cpt-core.php:147
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: vendor/cpt-core.php:148
+msgid "%s list"
+msgstr ""
+
+#: vendor/cpt-core.php:149
+msgid "%s list navigation"
+msgstr ""
+
+#: vendor/cpt-core.php:150
+msgid "Filter %s list"
+msgstr ""
+
+#: vendor/cpt-core.php:200
+msgid "Custom field updated."
+msgstr ""
+
+#: vendor/cpt-core.php:201
+msgid "Custom field deleted."
+msgstr ""
+
+#: vendor/cpt-core.php:202 vendor/cpt-core.php:219
+msgid "%1$s updated."
+msgstr ""
+
+#: vendor/cpt-core.php:204
+#. translators: %s: date and time of the revision
+msgid "%1$s restored to revision from %2$s"
+msgstr ""
+
+#: vendor/cpt-core.php:205
+msgid "%1$s saved."
+msgstr ""
+
+#: vendor/cpt-core.php:210
+msgid "%1$s updated. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core.php:211
+msgid "%1$s published. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core.php:212
+msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core.php:214
+#. translators: Publish box date format, see http:php.net/date
+msgid ""
+"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" "
+"href=\"%3$s\">Preview %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core.php:214 vendor/cpt-core.php:223
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: vendor/cpt-core.php:215
+msgid "%1$s draft updated. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core.php:220
+msgid "%1$s published."
+msgstr ""
+
+#: vendor/cpt-core.php:221
+msgid "%1$s submitted."
+msgstr ""
+
+#: vendor/cpt-core.php:223
+#. translators: Publish box date format, see http:php.net/date
+msgid "%1$s scheduled for: <strong>%2$s</strong>."
+msgstr ""
+
+#: vendor/cpt-core.php:224
+msgid "%1$s draft updated."
+msgstr ""
+
+#: vendor/cpt-core.php:242
+msgid "%1$s %2$s updated."
+msgid_plural "%1$s %3$s updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core.php:243
+msgid "%1$s %2$s not updated, somebody is editing it."
+msgid_plural "%1$s %3$s not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core.php:244
+msgid "%1$s %2$s permanently deleted."
+msgid_plural "%1$s %3$s permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core.php:245
+msgid "%1$s %2$s moved to the Trash."
+msgid_plural "%1$s %3$s moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core.php:246
+msgid "%1$s %2$s restored from the Trash."
+msgid_plural "%1$s %3$s restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core.php:292
+msgid "%s Title"
+msgstr ""
+
+#: vendor/plugin-notes.php:41
+msgid "Maintainn Note"
+msgstr ""
+
+#: vendor/plugin-notes.php:41
+msgid "Maintainn Notes"
+msgstr ""
+
+#: vendor/plugin-police.php:149
+msgid "Loading&hellip;"
+msgstr ""
+
+#: vendor/plugin-police.php:266
+msgid ""
+"WDS Plugin Police is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#: views/about-page.php:16
+msgid "Maintainn Tools"
+msgstr ""
+
+#: views/site-information.php:33
+msgid "REGISTERED POST TYPES"
+msgstr ""
+
+#: views/site-information.php:55
+msgid "REGISTERED POST STATUSES"
+msgstr ""
+
+#: views/site-information.php:78
+msgid "PERMALINK STRUCTURE"
+msgstr ""
+
+#: views/site-information.php:96
+msgid "MU PLUGINS ( %d )"
+msgstr ""
+
+#: views/site-information.php:113
+msgid "NETWORK ACTIVE PLUGINS ( %d )"
+msgstr ""
+
+#: views/site-information.php:132
+msgid "ACTIVE PLUGINS ( %d )"
+msgstr ""
+
+#: views/site-information.php:149
+msgid "INACTIVE PLUGINS ( %d )"
+msgstr ""
+
+#: views/site-information.php:168
+msgid "Email Your Site Info"
+msgstr ""
+
+#: views/site-information.php:178
+msgid "Site &amp; Server Details"
+msgstr ""
+
+#: views/site-information.php:185
+msgid "Site URL"
+msgstr ""
+
+#: views/site-information.php:191
+msgid "Active Theme"
+msgstr ""
+
+#: views/site-information.php:197
+msgid "Multisite"
+msgstr ""
+
+#: views/site-information.php:203
+msgid "WordPress Version"
+msgstr ""
+
+#: views/site-information.php:209
+msgid "Number of Plugins"
+msgstr ""
+
+#: views/site-information.php:215
+msgid "PHP Version"
+msgstr ""
+
+#: views/site-information.php:221
+msgid "MySQL Version"
+msgstr ""
+
+#: views/site-information.php:227
+msgid "WordPress Memory Limit"
+msgstr ""
+
+#: views/site-information.php:233
+msgid "Web Server:"
+msgstr ""
+
+#: views/site-information.php:239
+msgid "PHP Safe Mode:"
+msgstr ""
+
+#: views/site-information.php:245
+msgid "PHP Memory Limit:"
+msgstr ""
+
+#: views/site-information.php:251
+msgid "PHP Upload Max Size:"
+msgstr ""
+
+#: views/site-information.php:257
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: views/site-information.php:263
+msgid "PHP Time Limit"
+msgstr ""
+
+#: views/site-information.php:269
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: views/site-information.php:275
+msgid "WP_DEBUG"
+msgstr ""
+
+#: views/site-information.php:281
+msgid "WP Table Prefix Length"
+msgstr ""
+
+#: views/site-information.php:287
+msgid "Status"
+msgstr ""
+
+#: views/site-information.php:296
+msgid "Browser Details"
+msgstr ""
+
+#: views/site-information.php:303
+msgid "Browser Name"
+msgstr ""
+
+#: views/site-information.php:309
+msgid "Browser Version"
+msgstr ""
+
+#: views/site-information.php:315
+msgid "Browser User Agent"
+msgstr ""
+
+#: views/site-information.php:321
+msgid "Platform"
+msgstr ""
+
+#: views/site-information.php:330
+msgid "Session Details"
+msgstr ""
+
+#: views/site-information.php:337
+msgid "Session"
+msgstr ""
+
+#: views/site-information.php:343
+msgid "Session Name"
+msgstr ""
+
+#: views/site-information.php:349
+msgid "Cookie Path"
+msgstr ""
+
+#: views/site-information.php:355
+msgid "Save Path"
+msgstr ""
+
+#: views/site-information.php:361
+msgid "Use Cookies"
+msgstr ""
+
+#: views/site-information.php:367
+msgid "Use Only Cookies"
+msgstr ""
+
+#: views/site-information.php:376
+msgid "Other Details"
+msgstr ""
+
+#: views/site-information.php:383
+msgid "DISPLAY ERRORS"
+msgstr ""
+
+#: views/site-information.php:389
+msgid "FSOCKOPEN"
+msgstr ""
+
+#: views/site-information.php:395
+msgid "cURL"
+msgstr ""
+
+#: views/site-information.php:401
+msgid "SOAP Client"
+msgstr ""
+
+#: views/site-information.php:407
+msgid "SUHOSIN"
+msgstr ""
+
+#: views/support-info.php:19
+msgid "Helpful WordPress Resources"
+msgstr ""
+
+#: views/support-info.php:23 views/support-info.php:25
+msgid "WordPress Codex"
+msgstr ""
+
+#: views/support-info.php:24
+msgid ""
+"The online manual for WordPress and a living repository for WordPress "
+"information and documentation."
+msgstr ""
+
+#: views/support-info.php:28 views/support-info.php:30
+msgid "Developer Resources"
+msgstr ""
+
+#: views/support-info.php:29
+msgid ""
+"Learn to build WordPress themes, plugins, and the rest api. Everything you "
+"need to know about developing WordPress. "
+msgstr ""
+
+#: views/support-info.php:33
+msgid "WordPress Blog"
+msgstr ""
+
+#: views/support-info.php:34
+msgid ""
+"Get the latest news, updates, and security release information directly "
+"from the source. Stay up to date with WordPress."
+msgstr ""
+
+#: views/support-info.php:35 views/support-info.php:42
+msgid "WordPress Web Hosting"
+msgstr ""
+
+#: views/support-info.php:40
+msgid "WordPress Hosting"
+msgstr ""
+
+#: views/support-info.php:41
+msgid ""
+"Just like flowers need the right environment to grow, WordPress works best "
+"when it’s in a rich hosting environment."
+msgstr ""
+
+#: views/support-info.php:45
+msgid "WordPress TV"
+msgstr ""
+
+#: views/support-info.php:46
+msgid ""
+"Coulnt make it to your favorite WordCamp? Dont worry. You can watch the "
+"presentations after they have been uploaded."
+msgstr ""
+
+#: views/support-info.php:47
+msgid "WordPress Television"
+msgstr ""
+
+#: views/support-info.php:50 views/support-info.php:52
+msgid "WordCamp Central"
+msgstr ""
+
+#: views/support-info.php:51
+msgid ""
+"Learn from others in your local community. WordCamp is a weekend long "
+"conference dedicated to teaching WordPress ."
+msgstr ""
+
+#: views/support-info.php:62
+msgid ""
+"We Maintainn Your WordPress Investment. Never worry about your WordPress "
+"site again by letting us do it all--from development, to security, to site "
+"updates, and more!"
+msgstr ""
+
+#: views/support-info.php:67
+msgid "Get Maintainn Support"
+msgstr ""
+
+#: views/support-info.php:77
+msgid "How Maintainn Support Can Help"
+msgstr ""
+
+#: views/support-info.php:80
+msgid "WordPress Updates"
+msgstr ""
+
+#: views/support-info.php:81
+msgid ""
+"Update what?! Let Maintainn handle it for you, and never worry about those "
+"pesky site updates and backups ever again."
+msgstr ""
+
+#: views/support-info.php:85
+msgid "Website Staging"
+msgstr ""
+
+#: views/support-info.php:86
+msgid ""
+"Maintainn can help you set up a staging site to test, revise, or update "
+"without risking the functionality of your live site."
+msgstr ""
+
+#: views/support-info.php:89
+msgid "Professional Help"
+msgstr ""
+
+#: views/support-info.php:90
+msgid ""
+"The Maintainn team is here to assist you with any and all WordPress "
+"guidance, advice, and answers you may need."
+msgstr ""
+
+#: views/support-info.php:95
+msgid "Data Migrations"
+msgstr ""
+
+#: views/support-info.php:96
+msgid ""
+"Your data can be migrated to one of Maintainns trusted hosts without you "
+"lifting a finger!"
+msgstr ""
+
+#: views/support-info.php:99
+msgid "Custom Development"
+msgstr ""
+
+#: views/support-info.php:100
+msgid ""
+"All of our plans provide access to the Maintainn teams collective half "
+"century of expertise and experience."
+msgstr ""
+
+#: views/support-info.php:103
+msgid "Security Monitoring"
+msgstr ""
+
+#: views/support-info.php:104
+msgid ""
+"Our partnership with Sucuri guarantees that your WordPress site will be "
+"safe and secure with 24/7 monitoring."
+msgstr ""
+
+#: views/system-info.php:46
+msgid "Length: %s Status: %s"
+msgstr ""

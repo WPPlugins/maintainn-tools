@@ -1,0 +1,18 @@
+.grey, .grey:hover {
+	color: grey;
+	padding: 8px;
+}
+
+.green, .green:hover {
+	color: green;
+	padding: 8px;
+}
+
+.plugin-admin-notes-note {
+	padding-right: 30px;
+	width: 92%;
+}
+
+.pluginnote .fa {
+	font-size: 18px;
+}
